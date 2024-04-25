@@ -3,7 +3,7 @@
 Dep. Variable:                  loans   No. Observations:                 1242
 Model:                 ARIMA(3, 1, 6)   Log Likelihood               -2755.680
 Date:                Thu, 25 Apr 2024   AIC                           5535.361
-Time:                        17:23:05   BIC                           5596.845
+Time:                        18:25:02   BIC                           5596.845
 Sample:                    06-28-2000   HQIC                          5558.483
                          - 04-10-2024                                         
 Covariance Type:                  opg                                         
